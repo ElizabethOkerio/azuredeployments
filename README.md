@@ -1,5 +1,5 @@
 # azuredeployments
-To deploy run the following commands
+To deploy run the following commands:</br>
 az login </br>
 az account set --subscription "subscription name/sibscription id" </br>
 az group create --name "resource group name" --location "Central US" </br> 
